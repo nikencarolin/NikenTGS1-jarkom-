@@ -7,4 +7,5 @@ KELAS   : TEKNIK KOMPUTER 4 C
 Cara crimping kabal LAN (STRAIGHT)
 
 Alat Dan Bahan :
+
 1. 
