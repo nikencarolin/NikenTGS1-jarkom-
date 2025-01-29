@@ -7,7 +7,6 @@ KELAS   : TEKNIK KOMPUTER 4 C
 Cara crimping kabel LAN 
 
 Alat Dan Bahan :
-
 1. Kabel LAN
 2. Konektor RJ45
 3. Alat crimping
