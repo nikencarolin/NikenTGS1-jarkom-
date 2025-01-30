@@ -23,6 +23,7 @@ Langkah-Langkah nya:
    - PUTIH HIJAU / BIRU
    - PUTIH BIRU / HIJAU
    - PUTIH COKELAT / COKELAT
+![Image](https://github.com/user-attachments/assets/86a827df-1d68-49c0-960b-f3b30634c763)
 5. Rapihkan dan luruskan kabel agar mudah dimasukkan ke dalam konektor RJ45.
 6. Masukkan kabel kedalam konektror RJ45 sesuai urutan tadi dan pastikan ujung kabel mentok hingga ke ujung.
 7. Lalu letakkan kabel LAN ke dalam alat crimping, tekan hingga terkunci rapat.
