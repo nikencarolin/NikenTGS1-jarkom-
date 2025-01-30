@@ -26,4 +26,4 @@ Langkah-Langkah nya:
 5. Masukkan kabel kedalam konektror RJ45 sesuai urutan tadi dan pastikan ujung kabel mentok hingga ke ujung.
 6. Lalu letakkan kabel LAN ke dalam alat crimping, tekan hingga terkunci rapat.
 7. uji kabel LAN menggunakan LAN Tester, jika semua lampu menyala berarti kabal yang dibuat dapat berfungsi dengan baik.
-   <!-- Uploading "image.png"... --> 
+   <<!-- Uploading "image.png"... -->
