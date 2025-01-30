@@ -17,13 +17,14 @@ Langkah-Langkah nya:
 1. Persiapkan kabel LAN sepanjang 1 Meter.
 ![Image](https://github.com/user-attachments/assets/414cc018-ed64-4f48-ba28-aca14585338e)
 2.  Gunakan pemotong kabel LAN untuk mengupas lapisan luar kabel sekitar 2-3 cm sehingga bagian dalam kabel yang berisi kawat tembaga terlihat.
+![Image](https://github.com/user-attachments/assets/86a827df-1d68-49c0-960b-f3b30634c763)
 3.  pisahkan dan urutkan kabal dengan 4 pasang warna.
     STRAIGHT
    - PUTIH OREN / OREN
    - PUTIH HIJAU / BIRU
    - PUTIH BIRU / HIJAU
    - PUTIH COKELAT / COKELAT
-![Image](https://github.com/user-attachments/assets/86a827df-1d68-49c0-960b-f3b30634c763)
+![Image](https://github.com/user-attachments/assets/0d8ea8e4-f500-4c53-9062-9eba7af34fb7)
 4. Rapihkan dan luruskan kabel agar mudah dimasukkan ke dalam konektor RJ45.
 ![Image](https://github.com/user-attachments/assets/0d8ea8e4-f500-4c53-9062-9eba7af34fb7)
 5. Masukkan kabel kedalam konektror RJ45 sesuai urutan tadi dan pastikan ujung kabel mentok hingga ke ujung.
